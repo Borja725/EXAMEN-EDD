@@ -1,3 +1,4 @@
 exemplo
 estructura principal
 modificaciones rama principal
+hacemos merge
